@@ -89,7 +89,7 @@ Created interactive Power BI dashboards using:
 - Icons and images for vehicle and booking status
 - Filters with hide/show panel for better spacing
 
-## Analytical Findings
+# Analytical Findings
 - Auto vehicles contribute the highest booking volume
 - Go Mini and Sedan show strong revenue performance
 - Certain locations consistently dominate pickup and drop demand
