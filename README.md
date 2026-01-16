@@ -107,24 +107,5 @@ These insights can be used to:
 - Enhance service quality using rating analysis
 - Plan operations based on location demand trends
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Creating calculated columns and measures using DAX
-
-Mapping vehicle types and booking status with custom icons
+# Contact
+Email: Samikshadhawale166@gmail.com
