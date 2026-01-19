@@ -88,7 +88,7 @@ Created interactive Power BI dashboards using:
 - Tables for detailed ride data
 - Icons and images for vehicle and booking status
 - Filters with hide/show panel for better spacing
-
+  
 # Analytical Findings
 - Auto vehicles contribute the highest booking volume
 - Go Mini and Sedan show strong revenue performance
